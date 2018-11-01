@@ -1,2 +1,1 @@
-# project2budgetmax
-for presentation
+# Project2
