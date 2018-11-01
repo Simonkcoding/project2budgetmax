@@ -51,7 +51,7 @@ $("#submit-button").on("click", function (event) {
 
   console.log(data);
   // Posts varructed data object to the server THEN reloads page.
-  $.post("/api/transaction", data).then(function () {
+  $.post("/api/transaction", data, {timeout: 500}).then(function () {
     location.reload();
   });
 });
