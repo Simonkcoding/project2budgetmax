@@ -2,15 +2,10 @@ input[type="month"]::-webkit-calendar-picker-indicator{
     display: none;
 }
 
-/* .bg-image { 
-    /* The image used */
-    background-image: url("./images/login-option1-min.jpg");
+.alternate:nth-child(odd) {
+    background-color:#4E5D6C;
+}
+.alternate:nth-child(even) {
+    background-color: rgb(91, 108, 124);
+}
 
-    /* Full height */
-    height: 100%; 
-
-    /* Center and scale the image nicely */
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-} */

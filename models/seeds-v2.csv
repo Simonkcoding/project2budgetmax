@@ -1,0 +1,502 @@
+0,"Withdraw","Bills","2016-07-08",313.23908,1
+1,"Withdraw","Entertainment","2018-05-25",18.51482196,1
+2,"Withdraw","Bills","2017-10-09",395.4218477,1
+3,"Withdraw","Food and Groceries","2016-08-22",143.0974834,1
+4,"Withdraw","Entertainment","2018-01-04",6.037304346,1
+5,"Withdraw","Entertainment","2017-07-20",133.7324979,1
+6,"Withdraw","Bills","2018-08-13",459.2300527,1
+7,"Withdraw","Entertainment","2016-11-21",7.566905874,1
+8,"Withdraw","Entertainment","2016-11-03",1.338950821,1
+9,"Withdraw","Bills","2018-10-11",347.9072331,1
+10,"Withdraw","Bills","2017-07-02",382.4028746,1
+11,"Withdraw","Bills","2017-07-27",199.0197418,1
+12,"Withdraw","Gasoline","2016-11-14",15.45591319,1
+13,"Withdraw","Bills","2018-06-13",378.1410484,1
+14,"Withdraw","Bills","2018-05-12",366.0883022,1
+15,"Withdraw","Bills","2017-12-01",336.296992,1
+16,"Withdraw","Personal Care","2017-05-03",64.59403284,1
+17,"Withdraw","Entertainment","2016-12-20",94.25245357,1
+18,"Withdraw","Food and Groceries","2018-03-17",101.2364135,1
+19,"Withdraw","Bills","2016-10-28",136.7292738,1
+20,"Withdraw","Entertainment","2017-12-14",34.99862941,1
+21,"Withdraw","Food and Groceries","2016-06-23",139.9190908,1
+22,"Withdraw","Entertainment","2016-10-07",69.06533782,1
+23,"Withdraw","Bills","2018-09-14",451.4843912,1
+24,"Withdraw","Gasoline","2016-09-11",54.97227558,1
+25,"Withdraw","Food and Groceries","2018-05-19",104.2547816,1
+26,"Withdraw","Bills","2018-03-30",432.6735953,1
+27,"Withdraw","Personal Care","2018-02-06",162.2946491,1
+28,"Withdraw","Entertainment","2016-10-12",38.7292925,1
+29,"Withdraw","Food and Groceries","2017-07-25",161.5580021,1
+30,"Withdraw","Personal Care","2017-11-10",88.46350386,1
+31,"Withdraw","Food and Groceries","2016-08-13",14.93408922,1
+32,"Withdraw","Food and Groceries","2017-12-30",110.1448332,1
+33,"Withdraw","Bills","2017-08-10",316.165461,1
+34,"Withdraw","Bills","2018-03-19",390.5093329,1
+35,"Withdraw","Entertainment","2017-04-09",41.37837975,1
+36,"Withdraw","Food and Groceries","2016-10-31",193.1024368,1
+37,"Withdraw","Bills","2016-10-24",412.176208,1
+38,"Withdraw","Entertainment","2018-03-20",71.28375228,1
+39,"Withdraw","Food and Groceries","2018-03-16",18.82154544,1
+40,"Withdraw","Food and Groceries","2017-10-22",186.1958672,1
+41,"Withdraw","Bills","2016-12-24",471.2217609,1
+42,"Withdraw","Personal Care","2017-07-16",120.1056043,1
+43,"Withdraw","Entertainment","2017-11-04",4.698938456,1
+44,"Withdraw","Food and Groceries","2018-04-09",184.796134,1
+45,"Withdraw","Entertainment","2017-01-13",134.8582437,1
+46,"Withdraw","Food and Groceries","2017-12-29",74.11259829,1
+47,"Withdraw","Vacation","2017-01-12",939.7624835,1
+48,"Withdraw","Bills","2016-06-15",128.6901892,1
+49,"Withdraw","Food and Groceries","2017-05-25",186.9097929,1
+50,"Withdraw","Bills","2017-05-30",317.9782443,1
+51,"Withdraw","Gasoline","2016-09-15",30.80868969,1
+52,"Withdraw","Food and Groceries","2017-06-07",188.3039081,1
+53,"Withdraw","Entertainment","2017-06-08",1.973737513,1
+54,"Withdraw","Entertainment","2017-05-18",121.3883055,1
+55,"Withdraw","Gasoline","2018-03-10",17.93706238,1
+56,"Withdraw","Food and Groceries","2016-10-22",11.03626614,1
+57,"Withdraw","Food and Groceries","2016-12-02",97.96310232,1
+58,"Withdraw","Food and Groceries","2018-06-29",185.458617,1
+59,"Withdraw","Food and Groceries","2017-02-23",96.37461396,1
+60,"Withdraw","Entertainment","2016-07-01",30.37937003,1
+61,"Withdraw","Gasoline","2018-04-17",13.12420073,1
+62,"Withdraw","Personal Care","2018-02-13",34.52646326,1
+63,"Withdraw","Food and Groceries","2018-09-21",199.2504775,1
+64,"Withdraw","Gasoline","2016-06-29",16.72666083,1
+65,"Withdraw","Food and Groceries","2017-06-14",143.6796439,1
+66,"Withdraw","Food and Groceries","2018-04-06",33.25955559,1
+67,"Withdraw","Food and Groceries","2016-11-18",139.3607749,1
+68,"Withdraw","Entertainment","2016-04-13",82.78687112,1
+69,"Withdraw","Entertainment","2016-05-08",73.69386529,1
+70,"Withdraw","Bills","2017-01-15",322.3798305,1
+71,"Withdraw","Entertainment","2018-08-02",73.23094536,1
+72,"Withdraw","Bills","2016-07-14",168.7745506,1
+73,"Withdraw","Bills","2016-06-19",405.8059531,1
+74,"Withdraw","Food and Groceries","2017-11-09",199.613307,1
+75,"Withdraw","Personal Care","2017-12-19",45.7722658,1
+76,"Withdraw","Bills","2016-05-27",370.3196882,1
+77,"Withdraw","Food and Groceries","2016-12-16",58.90802403,1
+78,"Withdraw","Food and Groceries","2017-05-22",115.3354902,1
+79,"Withdraw","Bills","2017-08-31",133.4839434,1
+80,"Withdraw","Bills","2017-12-11",141.9184245,1
+81,"Withdraw","Gasoline","2017-11-12",49.79715754,1
+82,"Withdraw","Food and Groceries","2016-06-13",55.19774677,1
+83,"Withdraw","Food and Groceries","2017-02-17",170.8511647,1
+84,"Withdraw","Entertainment","2018-09-13",58.3001535,1
+85,"Withdraw","Entertainment","2017-03-02",116.6518532,1
+86,"Withdraw","Gasoline","2016-12-10",43.89451176,1
+87,"Withdraw","Gasoline","2017-09-07",47.5871707,1
+88,"Withdraw","Entertainment","2017-07-09",88.78230161,1
+89,"Withdraw","Bills","2018-03-23",145.9077739,1
+90,"Withdraw","Entertainment","2018-05-07",46.4863241,1
+91,"Withdraw","Food and Groceries","2018-07-31",47.96230214,1
+92,"Withdraw","Entertainment","2017-03-15",42.84521125,1
+93,"Withdraw","Bills","2018-10-30",151.1649583,1
+94,"Withdraw","Gasoline","2017-04-22",11.0037075,1
+95,"Withdraw","Entertainment","2017-04-15",120.2380573,1
+96,"Withdraw","Entertainment","2017-06-28",85.18272201,1
+97,"Withdraw","Bills","2017-08-04",428.8469183,1
+98,"Withdraw","Bills","2016-06-02",443.7826383,1
+99,"Withdraw","Vacation","2018-03-12",837.828545,1
+100,"Withdraw","Entertainment","2016-11-07",54.27425827,1
+101,"Withdraw","Entertainment","2016-06-30",13.62921419,1
+102,"Withdraw","Bills","2016-09-27",426.3518217,1
+103,"Withdraw","Entertainment","2018-10-14",18.12358976,1
+104,"Withdraw","Food and Groceries","2018-07-25",13.51371853,1
+105,"Withdraw","Bills","2016-10-19",111.1509884,1
+106,"Withdraw","Bills","2016-12-11",124.1880591,1
+107,"Withdraw","Bills","2017-08-24",300.8740303,1
+108,"Withdraw","Entertainment","2018-09-04",83.28964377,1
+109,"Withdraw","Food and Groceries","2017-05-04",92.88498523,1
+110,"Withdraw","Food and Groceries","2017-11-24",163.740999,1
+111,"Withdraw","Food and Groceries","2018-09-23",178.1988231,1
+112,"Withdraw","Food and Groceries","2018-10-27",131.4857038,1
+113,"Withdraw","Food and Groceries","2016-10-21",1.928576901,1
+114,"Withdraw","Food and Groceries","2016-05-26",98.70510096,1
+115,"Withdraw","Bills","2017-09-06",447.6987937,1
+116,"Withdraw","Entertainment","2017-03-16",101.5033133,1
+117,"Withdraw","Entertainment","2017-12-13",104.9417516,1
+118,"Withdraw","Food and Groceries","2016-04-21",137.8482677,1
+119,"Withdraw","Entertainment","2017-11-15",11.34965437,1
+120,"Withdraw","Entertainment","2017-04-02",56.57967967,1
+121,"Withdraw","Food and Groceries","2018-01-02",146.8345445,1
+122,"Withdraw","Food and Groceries","2018-02-24",118.1019991,1
+123,"Withdraw","Entertainment","2016-10-09",8.474562925,1
+124,"Withdraw","Gasoline","2016-11-17",14.95437467,1
+125,"Withdraw","Entertainment","2016-12-08",130.2206213,1
+126,"Withdraw","Entertainment","2016-10-15",10.96731454,1
+127,"Withdraw","Food and Groceries","2017-07-13",111.8495116,1
+128,"Withdraw","Food and Groceries","2016-10-04",4.5012547,1
+129,"Withdraw","Food and Groceries","2017-10-11",17.12449718,1
+130,"Withdraw","Food and Groceries","2018-03-07",177.1021819,1
+131,"Withdraw","Food and Groceries","2017-08-22",179.2579059,1
+132,"Withdraw","Entertainment","2016-12-07",90.10039266,1
+133,"Withdraw","Entertainment","2017-04-28",41.84795194,1
+134,"Withdraw","Entertainment","2017-09-17",72.32671835,1
+135,"Withdraw","Food and Groceries","2017-05-21",148.8638724,1
+136,"Withdraw","Entertainment","2018-06-20",36.10071364,1
+137,"Withdraw","Entertainment","2018-08-27",16.29536496,1
+138,"Withdraw","Gasoline","2018-05-26",10.60578732,1
+139,"Withdraw","Bills","2018-09-06",478.1986336,1
+140,"Withdraw","Gasoline","2017-10-28",44.16844381,1
+141,"Withdraw","Personal Care","2016-05-23",143.6937182,1
+142,"Withdraw","Entertainment","2016-12-25",0.4521154435,1
+143,"Withdraw","Entertainment","2018-06-19",103.9881622,1
+144,"Withdraw","Entertainment","2018-04-12",109.9256119,1
+145,"Withdraw","Bills","2017-03-31",333.5231825,1
+146,"Withdraw","Gasoline","2017-07-04",18.32050619,1
+147,"Withdraw","Food and Groceries","2016-12-31",84.85304849,1
+148,"Withdraw","Bills","2016-05-11",303.9074652,1
+149,"Withdraw","Entertainment","2017-04-27",106.5641847,1
+150,"Withdraw","Bills","2018-04-22",484.0241024,1
+151,"Withdraw","Entertainment","2016-04-25",11.52443505,1
+152,"Withdraw","Food and Groceries","2016-11-27",57.63948461,1
+153,"Withdraw","Entertainment","2017-06-10",133.2417588,1
+154,"Withdraw","Food and Groceries","2017-10-19",49.59770582,1
+155,"Withdraw","Bills","2016-05-19",388.864489,1
+156,"Withdraw","Food and Groceries","2018-01-18",48.61066271,1
+157,"Withdraw","Food and Groceries","2018-09-12",101.2611763,1
+158,"Withdraw","Entertainment","2017-03-30",77.37210728,1
+159,"Withdraw","Entertainment","2018-03-04",131.8577288,1
+160,"Withdraw","Food and Groceries","2016-10-10",42.02931877,1
+161,"Withdraw","Personal Care","2018-01-20",191.3825039,1
+162,"Withdraw","Personal Care","2017-12-22",45.52721313,1
+163,"Withdraw","Gasoline","2017-12-05",51.62857677,1
+164,"Withdraw","Food and Groceries","2017-03-22",142.3686621,1
+165,"Withdraw","Entertainment","2018-02-28",10.25924017,1
+166,"Withdraw","Entertainment","2017-01-06",126.9922683,1
+167,"Withdraw","Bills","2016-08-10",327.4336707,1
+168,"Withdraw","Entertainment","2018-10-22",19.88140019,1
+169,"Withdraw","Food and Groceries","2016-06-14",40.67868706,1
+170,"Withdraw","Food and Groceries","2017-05-09",125.205002,1
+171,"Withdraw","Food and Groceries","2017-09-25",181.9490448,1
+172,"Withdraw","Entertainment","2016-10-11",80.78733362,1
+173,"Withdraw","Bills","2017-08-25",496.0869834,1
+174,"Withdraw","Food and Groceries","2016-08-20",184.142388,1
+175,"Withdraw","Food and Groceries","2017-03-19",165.2500067,1
+176,"Withdraw","Bills","2018-10-18",398.0978419,1
+177,"Withdraw","Entertainment","2016-05-02",128.3743126,1
+178,"Withdraw","Bills","2017-02-01",305.9524993,1
+179,"Withdraw","Personal Care","2017-07-23",159.8552379,1
+180,"Withdraw","Food and Groceries","2016-11-19",15.59191855,1
+181,"Withdraw","Bills","2018-09-05",164.3539271,1
+182,"Withdraw","Vacation","2018-08-01",613.7099985,1
+183,"Withdraw","Entertainment","2018-08-07",37.31893444,1
+184,"Withdraw","Food and Groceries","2016-06-20",117.3007351,1
+185,"Withdraw","Food and Groceries","2018-04-02",87.3554471,1
+186,"Withdraw","Entertainment","2017-06-19",90.53543422,1
+187,"Withdraw","Bills","2016-04-24",338.4293128,1
+188,"Withdraw","Entertainment","2017-05-08",112.4552851,1
+189,"Withdraw","Food and Groceries","2016-11-01",138.2381143,1
+190,"Withdraw","Entertainment","2017-08-20",12.19008911,1
+191,"Withdraw","Food and Groceries","2018-10-16",145.3819905,1
+192,"Withdraw","Bills","2017-06-03",481.7851874,1
+193,"Withdraw","Entertainment","2018-01-05",44.22161635,1
+194,"Withdraw","Entertainment","2016-05-24",69.3050906,1
+195,"Withdraw","Food and Groceries","2018-01-21",14.31527584,1
+196,"Withdraw","Bills","2018-01-16",474.6638508,1
+197,"Withdraw","Vacation","2017-05-28",884.8608973,1
+198,"Withdraw","Food and Groceries","2018-04-19",101.9015243,1
+199,"Withdraw","Entertainment","2017-09-18",136.4059441,1
+200,"Withdraw","Gasoline","2017-08-13",58.54539334,1
+201,"Withdraw","Bills","2018-06-03",324.8665053,1
+202,"Withdraw","Bills","2016-10-16",352.3455648,1
+203,"Withdraw","Food and Groceries","2018-04-20",19.79157215,1
+204,"Withdraw","Entertainment","2016-11-29",81.90871011,1
+205,"Withdraw","Gasoline","2016-04-07",15.11000734,1
+206,"Withdraw","Food and Groceries","2018-08-24",109.5424803,1
+207,"Withdraw","Personal Care","2016-07-05",153.0931049,1
+208,"Withdraw","Food and Groceries","2016-12-21",33.97942172,1
+209,"Withdraw","Food and Groceries","2017-05-27",119.8946044,1
+210,"Withdraw","Food and Groceries","2017-09-12",110.7976371,1
+211,"Withdraw","Entertainment","2016-06-21",18.55961024,1
+212,"Withdraw","Bills","2016-07-13",171.4706072,1
+213,"Withdraw","Food and Groceries","2016-05-16",118.5652384,1
+214,"Withdraw","Food and Groceries","2018-05-24",49.36015516,1
+215,"Withdraw","Entertainment","2018-09-16",92.78658912,1
+216,"Withdraw","Bills","2017-03-18",467.0374376,1
+217,"Withdraw","Food and Groceries","2018-01-26",155.6143929,1
+218,"Withdraw","Gasoline","2018-10-01",19.61196826,1
+219,"Withdraw","Entertainment","2017-05-11",123.6470721,1
+220,"Withdraw","Food and Groceries","2018-07-18",193.6343577,1
+221,"Withdraw","Entertainment","2018-07-03",31.77268272,1
+222,"Withdraw","Vacation","2016-09-09",712.6435538,1
+223,"Withdraw","Food and Groceries","2016-07-04",74.82991898,1
+224,"Withdraw","Food and Groceries","2018-03-29",131.6448054,1
+225,"Withdraw","Bills","2016-12-03",310.3486853,1
+226,"Withdraw","Bills","2016-09-17",139.5012162,1
+227,"Withdraw","Food and Groceries","2017-09-27",117.6391675,1
+228,"Withdraw","Gasoline","2016-08-19",42.799942,1
+229,"Withdraw","Bills","2017-11-01",374.9979126,1
+230,"Withdraw","Entertainment","2017-07-28",17.33675502,1
+231,"Withdraw","Entertainment","2017-08-18",117.780461,1
+232,"Withdraw","Vacation","2018-03-31",662.1450731,1
+233,"Withdraw","Bills","2017-12-21",424.0415208,1
+234,"Withdraw","Entertainment","2016-11-22",105.0860125,1
+235,"Withdraw","Vacation","2016-06-11",999.481299,1
+236,"Withdraw","Gasoline","2017-03-05",32.7033173,1
+237,"Withdraw","Entertainment","2018-10-04",4.379543041,1
+238,"Withdraw","Entertainment","2017-10-26",123.1978417,1
+239,"Withdraw","Food and Groceries","2018-06-07",119.4427472,1
+240,"Withdraw","Food and Groceries","2018-02-20",112.3848552,1
+241,"Withdraw","Bills","2016-07-07",462.7820077,1
+242,"Withdraw","Bills","2017-09-24",402.2747445,1
+243,"Withdraw","Food and Groceries","2018-10-17",166.8722345,1
+244,"Withdraw","Bills","2018-06-24",103.6994179,1
+245,"Withdraw","Food and Groceries","2018-04-08",134.1034174,1
+246,"Withdraw","Food and Groceries","2018-07-11",59.53561038,1
+247,"Withdraw","Bills","2018-10-05",415.3529402,1
+248,"Withdraw","Entertainment","2016-08-29",16.80702543,1
+249,"Withdraw","Food and Groceries","2016-08-06",32.13170269,1
+250,"Withdraw","Entertainment","2018-06-21",12.52192411,1
+251,"Withdraw","Gasoline","2018-04-11",34.32139863,1
+252,"Withdraw","Food and Groceries","2018-06-22",38.28321437,1
+253,"Withdraw","Entertainment","2017-11-16",85.95830584,1
+254,"Withdraw","Entertainment","2017-11-27",98.56509513,1
+255,"Withdraw","Bills","2017-12-03",384.7060755,1
+256,"Withdraw","Bills","2018-01-09",442.9232441,1
+257,"Withdraw","Food and Groceries","2018-08-19",95.99936135,1
+258,"Withdraw","Entertainment","2016-07-21",93.66959823,1
+259,"Withdraw","Bills","2017-12-26",410.5219697,1
+260,"Withdraw","Bills","2016-11-08",319.0116176,1
+261,"Withdraw","Entertainment","2016-11-02",9.997230962,1
+262,"Withdraw","Food and Groceries","2016-05-05",121.5046003,1
+263,"Withdraw","Food and Groceries","2018-10-29",5.168429521,1
+264,"Withdraw","Entertainment","2016-04-29",114.1221178,1
+265,"Withdraw","Food and Groceries","2017-06-29",121.2020361,1
+266,"Withdraw","Entertainment","2016-11-26",88.24295579,1
+267,"Withdraw","Food and Groceries","2017-11-23",105.7107967,1
+268,"Withdraw","Bills","2016-07-09",369.0039839,1
+269,"Withdraw","Bills","2016-05-25",120.8411757,1
+270,"Withdraw","Bills","2016-11-28",195.5564341,1
+271,"Withdraw","Entertainment","2018-01-25",61.02251103,1
+272,"Withdraw","Bills","2017-04-04",147.898822,1
+273,"Withdraw","Entertainment","2017-03-23",70.91096172,1
+274,"Withdraw","Entertainment","2016-11-15",68.0325614,1
+275,"Withdraw","Food and Groceries","2016-10-02",12.78021367,1
+276,"Withdraw","Food and Groceries","2018-10-02",138.8287035,1
+277,"Withdraw","Entertainment","2018-04-01",49.74431285,1
+278,"Withdraw","Entertainment","2018-09-09",31.05414498,1
+279,"Withdraw","Food and Groceries","2017-05-02",120.5679667,1
+280,"Withdraw","Entertainment","2016-05-09",96.25678095,1
+281,"Withdraw","Food and Groceries","2016-11-13",55.09001357,1
+282,"Withdraw","Personal Care","2017-09-08",78.08529865,1
+283,"Withdraw","Food and Groceries","2017-02-13",71.05980528,1
+284,"Withdraw","Entertainment","2017-06-09",74.82506759,1
+285,"Withdraw","Entertainment","2017-12-06",118.9575486,1
+286,"Withdraw","Food and Groceries","2016-07-02",132.1001371,1
+287,"Withdraw","Entertainment","2017-06-17",75.70500979,1
+288,"Withdraw","Food and Groceries","2018-04-04",9.064603625,1
+289,"Withdraw","Food and Groceries","2018-01-07",8.869414185,1
+290,"Withdraw","Food and Groceries","2017-06-21",128.3103051,1
+291,"Withdraw","Food and Groceries","2016-06-17",147.104307,1
+292,"Withdraw","Entertainment","2017-03-14",13.27406967,1
+293,"Withdraw","Entertainment","2016-06-18",17.84009171,1
+294,"Withdraw","Entertainment","2018-06-05",76.84858447,1
+295,"Withdraw","Bills","2017-03-29",416.6382268,1
+296,"Withdraw","Bills","2017-07-07",430.7731348,1
+297,"Withdraw","Food and Groceries","2016-12-01",107.571052,1
+298,"Withdraw","Food and Groceries","2018-02-16",66.26003765,1
+299,"Withdraw","Bills","2017-07-11",486.8780458,1
+300,"Withdraw","Food and Groceries","2018-04-03",115.9656318,1
+301,"Withdraw","Food and Groceries","2016-04-08",60.86738737,1
+302,"Withdraw","Entertainment","2018-05-15",38.52162279,1
+303,"Withdraw","Entertainment","2017-05-17",48.51708443,1
+304,"Withdraw","Bills","2016-10-18",478.4959307,1
+305,"Withdraw","Entertainment","2018-02-12",84.06723507,1
+306,"Withdraw","Bills","2016-05-21",403.6155769,1
+307,"Withdraw","Entertainment","2018-01-27",107.8492063,1
+308,"Withdraw","Food and Groceries","2016-07-18",146.3384732,1
+309,"Withdraw","Gasoline","2018-06-02",57.01338689,1
+310,"Withdraw","Bills","2016-10-20",344.6818507,1
+311,"Withdraw","Entertainment","2016-04-16",64.6178277,1
+312,"Withdraw","Gasoline","2017-02-24",41.83778037,1
+313,"Withdraw","Entertainment","2017-02-10",101.1504967,1
+314,"Withdraw","Food and Groceries","2016-06-25",111.7612625,1
+315,"Withdraw","Gasoline","2017-01-17",40.72649727,1
+316,"Withdraw","Entertainment","2017-11-07",127.3425011,1
+317,"Withdraw","Gasoline","2017-03-25",48.90950473,1
+318,"Withdraw","Food and Groceries","2016-04-10",72.28868551,1
+319,"Withdraw","Bills","2017-07-19",157.7638045,1
+320,"Withdraw","Gasoline","2017-01-30",36.31483962,1
+321,"Withdraw","Food and Groceries","2018-03-09",121.755719,1
+322,"Withdraw","Entertainment","2017-01-03",117.9870777,1
+323,"Withdraw","Food and Groceries","2017-07-10",111.6890428,1
+324,"Withdraw","Bills","2017-09-19",194.3315397,1
+325,"Withdraw","Food and Groceries","2017-08-29",104.0903794,1
+326,"Withdraw","Gasoline","2017-12-28",45.50109174,1
+327,"Withdraw","Food and Groceries","2018-03-05",190.297881,1
+328,"Withdraw","Entertainment","2016-08-18",39.63951399,1
+329,"Withdraw","Entertainment","2018-07-17",137.2931085,1
+330,"Withdraw","Food and Groceries","2017-10-20",173.8783822,1
+331,"Withdraw","Entertainment","2016-06-07",49.10217524,1
+332,"Withdraw","Gasoline","2017-11-26",59.56561013,1
+333,"Withdraw","Bills","2018-03-02",351.0426241,1
+334,"Withdraw","Gasoline","2016-10-06",33.73299836,1
+335,"Withdraw","Entertainment","2017-03-10",64.26988951,1
+336,"Withdraw","Gasoline","2016-05-22",53.85243221,1
+337,"Withdraw","Food and Groceries","2017-11-28",63.50160557,1
+338,"Withdraw","Gasoline","2016-04-12",56.23087014,1
+339,"Withdraw","Food and Groceries","2017-01-04",69.73642703,1
+340,"Withdraw","Gasoline","2017-01-19",52.07615435,1
+341,"Withdraw","Food and Groceries","2016-06-26",78.62982229,1
+342,"Withdraw","Bills","2017-03-06",153.608181,1
+343,"Withdraw","Gasoline","2017-03-27",17.60993317,1
+344,"Withdraw","Food and Groceries","2017-05-12",37.14846692,1
+345,"Withdraw","Gasoline","2017-10-29",38.29692935,1
+346,"Withdraw","Food and Groceries","2017-02-25",157.5913468,1
+347,"Withdraw","Personal Care","2018-07-06",13.88484553,1
+348,"Withdraw","Food and Groceries","2016-06-03",104.6405642,1
+349,"Withdraw","Entertainment","2017-06-05",94.87743683,1
+350,"Withdraw","Entertainment","2017-04-30",59.7864551,1
+351,"Withdraw","Food and Groceries","2016-10-26",35.90785827,1
+352,"Withdraw","Bills","2016-08-09",362.2627281,1
+353,"Withdraw","Food and Groceries","2017-01-20",118.7355362,1
+354,"Withdraw","Entertainment","2016-11-25",128.9990211,1
+355,"Withdraw","Entertainment","2018-06-12",1.524748751,1
+356,"Withdraw","Food and Groceries","2017-04-18",109.0898234,1
+357,"Withdraw","Food and Groceries","2017-03-12",73.29613421,1
+358,"Withdraw","Vacation","2017-08-07",794.8165757,1
+359,"Withdraw","Entertainment","2018-01-19",51.56712421,1
+360,"Withdraw","Food and Groceries","2018-06-23",172.6441017,1
+361,"Withdraw","Food and Groceries","2018-10-26",126.5712146,1
+362,"Withdraw","Entertainment","2018-05-14",87.05366515,1
+363,"Withdraw","Food and Groceries","2017-07-30",140.2695452,1
+364,"Withdraw","Entertainment","2017-08-02",108.7346239,1
+365,"Withdraw","Bills","2016-04-30",114.1360111,1
+366,"Withdraw","Bills","2018-02-02",154.6192655,1
+367,"Withdraw","Food and Groceries","2017-06-23",156.8221768,1
+368,"Withdraw","Entertainment","2016-07-24",112.2983621,1
+369,"Withdraw","Food and Groceries","2016-09-30",19.33850658,1
+370,"Withdraw","Bills","2016-11-12",393.6224316,1
+371,"Withdraw","Food and Groceries","2018-01-10",43.01516252,1
+372,"Withdraw","Entertainment","2017-08-09",15.35898795,1
+373,"Withdraw","Bills","2018-10-25",185.382677,1
+374,"Withdraw","Entertainment","2018-03-27",61.72796708,1
+375,"Withdraw","Food and Groceries","2016-09-07",99.26505532,1
+376,"Withdraw","Food and Groceries","2016-09-02",167.7743703,1
+377,"Withdraw","Bills","2018-06-18",166.7052574,1
+378,"Withdraw","Food and Groceries","2017-10-07",107.6613442,1
+379,"Withdraw","Entertainment","2017-07-14",32.592877,1
+380,"Withdraw","Bills","2016-12-30",451.0246671,1
+381,"Withdraw","Gasoline","2017-11-02",16.46649837,1
+382,"Withdraw","Personal Care","2018-09-08",183.086182,1
+383,"Withdraw","Food and Groceries","2017-03-01",160.4922417,1
+384,"Withdraw","Food and Groceries","2018-05-03",16.39110922,1
+385,"Withdraw","Bills","2017-07-08",497.9681581,1
+386,"Withdraw","Entertainment","2018-04-25",52.88278442,1
+387,"Withdraw","Entertainment","2018-05-01",6.566829726,1
+388,"Withdraw","Food and Groceries","2017-11-14",32.59341294,1
+389,"Withdraw","Bills","2018-09-24",454.5540301,1
+390,"Withdraw","Bills","2017-09-14",490.5348835,1
+391,"Withdraw","Food and Groceries","2016-04-15",139.4949341,1
+392,"Withdraw","Entertainment","2017-11-21",135.5312874,1
+393,"Withdraw","Entertainment","2017-03-17",54.765282,1
+394,"Withdraw","Food and Groceries","2018-10-20",130.7049148,1
+395,"Withdraw","Food and Groceries","2018-08-08",158.3607369,1
+396,"Withdraw","Food and Groceries","2016-08-07",197.2142582,1
+397,"Withdraw","Food and Groceries","2016-10-01",3.797771297,1
+398,"Withdraw","Bills","2018-07-29",125.5512299,1
+399,"Withdraw","Food and Groceries","2017-04-08",89.85216706,1
+400,"Withdraw","Entertainment","2018-08-28",57.97236532,1
+401,"Withdraw","Food and Groceries","2017-01-24",125.1839178,1
+402,"Withdraw","Entertainment","2017-09-05",126.053645,1
+403,"Withdraw","Food and Groceries","2016-04-28",4.253630009,1
+404,"Withdraw","Bills","2017-08-11",460.9203014,1
+405,"Withdraw","Entertainment","2017-09-13",139.4943032,1
+406,"Withdraw","Entertainment","2017-08-03",14.01972666,1
+407,"Withdraw","Entertainment","2017-02-22",121.6483192,1
+408,"Withdraw","Entertainment","2018-08-06",110.5526076,1
+409,"Withdraw","Entertainment","2017-03-09",138.8583761,1
+410,"Withdraw","Bills","2016-06-28",420.6002279,1
+411,"Withdraw","Entertainment","2018-03-26",115.2405935,1
+412,"Withdraw","Food and Groceries","2017-05-10",195.6645244,1
+413,"Withdraw","Entertainment","2016-04-09",66.66804624,1
+414,"Withdraw","Vacation","2017-01-22",728.7493316,1
+415,"Withdraw","Food and Groceries","2016-09-23",184.9271221,1
+416,"Withdraw","Entertainment","2017-04-14",16.24339752,1
+417,"Withdraw","Gasoline","2017-07-03",50.30015199,1
+418,"Withdraw","Entertainment","2016-09-29",102.3582865,1
+419,"Withdraw","Bills","2016-08-11",160.0203777,1
+420,"Withdraw","Bills","2016-09-19",439.9742914,1
+421,"Withdraw","Gasoline","2018-01-31",19.68973223,1
+422,"Withdraw","Bills","2017-05-13",117.7991967,1
+423,"Withdraw","Food and Groceries","2018-07-23",55.61089089,1
+424,"Withdraw","Bills","2018-10-23",109.8853659,1
+425,"Withdraw","Food and Groceries","2017-09-28",116.4565246,1
+426,"Withdraw","Entertainment","2017-05-31",78.40528415,1
+427,"Withdraw","Food and Groceries","2017-07-01",66.86717491,1
+428,"Withdraw","Entertainment","2018-07-27",45.57943977,1
+429,""""Withdraw"",Vacation,"2018-10-05",864.3953092,1
+430,"Withdraw","Food and Groceries","2016-06-04",129.9413695,1
+431,"Withdraw","Bills","2017-10-15",188.4557386,1
+432,"Withdraw","Food and Groceries","2017-09-16",115.2112044,1
+433,"Withdraw","Gasoline","2017-02-15",55.04994749,1
+434,"Withdraw","Bills","2017-04-11",129.764417,1
+435,"Withdraw","Entertainment","2018-10-07",99.75065108,1
+436,"Withdraw","Food and Groceries","2016-10-30",124.5123508,1
+437,"Withdraw","Bills","2018-07-22",177.4885542,1
+438,"Withdraw","Entertainment","2017-11-29",47.1372867,1
+439,"Withdraw","Entertainment","2017-02-18",35.34845424,1
+440,"Withdraw","Bills","2016-10-05",100.351694,1
+441,"Withdraw","Food and Groceries","2016-09-24",122.4499737,1
+442,"Withdraw","Personal Care","2017-09-22",142.2000372,1
+443,"Withdraw","Gasoline","2016-04-19",37.39884049,1
+444,"Withdraw","Gasoline","2018-07-13",18.89444638,1
+445,"Withdraw","Food and Groceries","2016-09-16",109.4195233,1
+446,"Withdraw","Bills","2018-10-24",330.2953378,1
+447,"Withdraw","Food and Groceries","2016-08-16",189.347963,1
+448,"Withdraw","Food and Groceries","2018-03-22",42.12291974,1
+449,"Withdraw","Food and Groceries","2016-08-31",17.22618011,1
+450,"Withdraw","Entertainment","2017-01-01",60.41733826,1
+451,"Withdraw","Bills","2018-05-22",342.491283,1
+452,"Withdraw","Food and Groceries","2018-01-12",15.34534673,1
+453,"Withdraw","Gasoline","2016-09-08",46.60166262,1
+454,"Withdraw","Food and Groceries","2017-12-02",141.0957558,1
+455,"Withdraw","Food and Groceries","2017-08-12",35.31615813,1
+456,"Withdraw","Entertainment","2016-06-22",98.05330031,1
+457,"Withdraw","Entertainment","2018-10-31",65.98191092,1
+458,"Withdraw","Bills","2017-06-13",362.0707049,1
+459,"Withdraw","Personal Care","2017-11-30",179.6209157,1
+460,"Withdraw","Food and Groceries","2018-01-28",133.6604844,1
+461,"Withdraw","Food and Groceries","2018-03-06",119.0505172,1
+462,"Withdraw","Personal Care","2017-02-28",148.4945071,1
+463,"Withdraw","Entertainment","2016-06-12",51.85086007,1
+464,"Withdraw","Entertainment","2018-06-28",56.06203743,1
+465,"Withdraw","Bills","2018-09-22",493.4939017,1
+466,"Withdraw","Bills","2017-07-31",354.6164398,1
+467,"Withdraw","Entertainment","2016-11-05",114.3832152,1
+468,"Withdraw","Entertainment","2018-09-27",43.47502959,1
+469,"Withdraw","Bills","2017-03-21",470.1375778,1
+470,"Withdraw","Entertainment","2018-06-15",63.41286386,1
+471,"Withdraw","Entertainment","2016-04-27",15.31447354,1
+472,"Withdraw","Bills","2016-11-24",174.9988197,1
+473,"Withdraw","Bills","2018-08-18",191.7009958,1
+474,"Withdraw","Bills","2016-09-10",179.4780138,1
+475,"Withdraw","Entertainment","2018-08-22",131.5034992,1
+476,"Withdraw","Gasoline","2017-10-14",39.46160531,1
+477,"Withdraw","Entertainment","2018-03-28",107.4603605,1
+478,"Withdraw","Entertainment","2017-11-20",125.1524343,1
+479,"Withdraw","Personal Care","2016-04-22",151.4895711,1
+480,"Withdraw","Food and Groceries","2016-05-03",123.7166006,1
+481,"Withdraw","Personal Care","2016-06-24",43.69845776,1
+482,"Withdraw","Gasoline","2018-08-21",31.5892528,1
+483,"Withdraw","Entertainment","2017-06-18",91.48594558,1
+484,"Withdraw","Entertainment","2017-05-15",14.5937258,1
+485,"Withdraw","Entertainment","2017-05-07",97.45553257,1
+486,"Withdraw","Bills","2016-08-14",357.6186353,1
+487,"Withdraw","Bills","2017-06-16",436.3941118,1
+488,"Withdraw","Bills","2018-10-28",182.0824407,1
+489,"Withdraw","Food and Groceries","2017-03-13",130.3873588,1
+490,"Withdraw","Food and Groceries","2017-06-12",30.69943597,1
+491,"Withdraw","Bills","2018-07-21",379.4545826,1
+492,"Withdraw","Food and Groceries","2016-08-15",12.85335175,1
+493,"Withdraw","Gasoline","2017-09-26",12.83367183,1
+494,"Withdraw","Entertainment","2017-05-29",79.82918554,1
+495,"Withdraw","Food and Groceries","2018-05-21",11.94166954,1
+496,"Withdraw","Bills","2017-06-20",107.7096608,1
+497,"Withdraw","Gasoline","2017-11-22",35.45429086,1
+498,"Withdraw","Entertainment","2018-08-16",33.46470672,1
+499,"Withdraw","Personal Care","2018-10-3",72.59403284,1
+500,"Withdraw","Personal Care","2018-10-12",83.12403284,1
+501,"Withdraw","Personal Care","2018-10-27",54.59403284,1
