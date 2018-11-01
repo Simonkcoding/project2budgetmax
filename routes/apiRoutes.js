@@ -46,7 +46,7 @@ module.exports = function (app) {
       UserId: userId
     }
     console.log(data);
-
+    // if
     db.Transaction.create(data).then(function (dbTransactionNew) {
       res.json(dbTransactionNew);
     });
