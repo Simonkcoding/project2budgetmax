@@ -25,10 +25,7 @@ module.exports = function(sequelize, DataTypes) {
       type: DataTypes.STRING,
       allowNull: true
     },
-    createdAt: {
-      type: DataTypes.DATE,
-      unique: true
-    },
+    createdAt: DataTypes.DATE,
     updatedAt: DataTypes.DATE
   });
 
